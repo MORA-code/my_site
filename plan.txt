@@ -1,0 +1,7 @@
+urls
+--------
+/ => Welcome text, lastest blog posts
+/posts => All blog posts
+/posts/{slug} => Individual blog post               *slugs: seo-friendly unique idetifier
+
+
